@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
                  LinearLayout l=(LinearLayout)findViewById(R.id.tryagain);
                  l.setVisibility(View.VISIBLE);
              }
+             
              else
              {
                  boolean b=true;
