@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
          if (a == 0) {
              c.setImageResource(R.drawable.la);
              a = 1;
+             
          } else {
              c.setImageResource(R.drawable.images);
              a = 0;
