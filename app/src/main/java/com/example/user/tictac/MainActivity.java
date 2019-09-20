@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
                  t.setText(s+" has won!");
                  LinearLayout l=(LinearLayout)findViewById(R.id.tryagain);
                  l.setVisibility(View.VISIBLE);
+                 
              }
              
              else
